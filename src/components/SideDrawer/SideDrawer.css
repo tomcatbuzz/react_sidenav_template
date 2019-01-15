@@ -39,7 +39,7 @@
   transform: translateX(0);
 }
 
-@media (min-width) {
+@media (min-width: 769px) {
   .side-drawer {
     display: none;
   }
